@@ -4,3 +4,4 @@ git status     			查看git状态
 git commit -m"说明" 	暂存区添加到本地仓库
 git push 				本地仓库推送远程仓库
 加了代码
+新加的代码推送远程
